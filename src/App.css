@@ -1,0 +1,16 @@
+*{
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.app{
+  min-height: 100vh;
+  width: 100%;
+  /* background-color: rgb(23, 23, 23); */
+  color: inherit;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
